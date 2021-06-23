@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+background-color: skyblue;
+width: fit-content;
+padding: 10px;
+border-radius: 5px;
+}
+.header{
+    color: white;
+    background-color: goldenrod;
+    width: 300px;
+    border-radius: 20px;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+canvas{
+    border: 2px dashed black;
+    box-shadow: 5px 5px 5px grey;
+}
+
